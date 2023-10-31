@@ -1,7 +1,7 @@
 {
 	"name": "Oxy Fly",
 	"short_name": "Oxy Fly",
-	"description": "",
+	"description": "An exhilarating adventure through surreal worlds. Control OXXY, the flying cream, as you defy gravity and immerse yourself in a dreamy journey through lush landscapes. Overcome challenging obstacles and unlock magical powers to master the skies. Get ready for a magical and addictive gaming experience that will leave you floating with excitement!",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
@@ -14,11 +14,6 @@
 		},
 		{
 			"src": "icons/icon-32.png",
-			"sizes": "32x32",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-64.png",
 			"sizes": "64x64",
 			"type": "image/png"
 		},
